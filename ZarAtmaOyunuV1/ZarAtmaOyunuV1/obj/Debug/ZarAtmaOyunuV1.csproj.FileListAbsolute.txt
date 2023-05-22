@@ -1,0 +1,10 @@
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\bin\Debug\ZarAtmaOyunuV1.exe.config
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\bin\Debug\ZarAtmaOyunuV1.exe
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\bin\Debug\ZarAtmaOyunuV1.pdb
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\obj\Debug\ZarAtmaOyunuV1.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\obj\Debug\ZarAtmaOyunuV1.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\obj\Debug\ZarAtmaOyunuV1.Properties.Resources.resources
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\obj\Debug\ZarAtmaOyunuV1.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\obj\Debug\ZarAtmaOyunuV1.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\obj\Debug\ZarAtmaOyunuV1.exe
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\ZarAtmaOyunuV1\ZarAtmaOyunuV1\obj\Debug\ZarAtmaOyunuV1.pdb
